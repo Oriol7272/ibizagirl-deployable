@@ -1,0 +1,10 @@
+[
+  {
+    "censored": "example1.jpg",
+    "uncensored": "example1_full.jpg"
+  },
+  {
+    "censored": "example2.jpg",
+    "uncensored": "example2_full.jpg"
+  }
+]
